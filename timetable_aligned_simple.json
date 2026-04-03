@@ -1,0 +1,33 @@
+[
+  {
+    "day_date": "",
+    "subjects": [
+      "8:30am - 8:30am - 8:30am",
+      "11am - 11am - 11am",
+      "2pm - 2pm - 2pm",
+      "8:30am - Course Code - Course Title",
+      "11am - Course Code - Course Title",
+      "2pm - Course Code - Course Title",
+      "8:30am - BFN715 - Principles Of Finance",
+      "11am - BUS801 - Operations Management",
+      "2pm - ACC311 - Financial Accounting",
+      "8:30am - BFN805 - Corporate Finance",
+      "11am - CRD422 - Social Processes And Comparative Ru",
+      "2pm - ACC426 - International Accounting"
+    ]
+  },
+  {
+    "day_date": "1",
+    "subjects": [
+      "8:30am - 8:30am - 8:30am",
+      "11am - 11am - 11am",
+      "2pm - 2pm - 2pm",
+      "8:30am - ACC757 - Principles Of Accounting",
+      "11am - ACC812 - Introduction To Accounting",
+      "2pm - BUS804 - Strategy And Structure",
+      "8:30am - BFN301 - Practice Of Banking",
+      "11am - BFN302 - Monetary Theory & Policy",
+      "2pm - CRD407 - Project Planning Management Monitor"
+    ]
+  }
+]

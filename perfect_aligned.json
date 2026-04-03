@@ -1,0 +1,1177 @@
+[
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": null,
+    "8_30am": {
+      "code": "BFN715",
+      "title": "Principles Of Finance"
+    },
+    "11am": {
+      "code": "BUS801",
+      "title": "Operations Management"
+    },
+    "2pm": {
+      "code": "ACC311",
+      "title": "Financial Accounting"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "BFN805",
+      "title": "Corporate Finance"
+    },
+    "11am": {
+      "code": "CRD422",
+      "title": "Social Processes And Comparative Ru"
+    },
+    "2pm": {
+      "code": "ACC426",
+      "title": "International Accounting"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "ACC306",
+      "title": "Cost Accounting"
+    },
+    "11am": {
+      "code": "BFN411",
+      "title": "Public Financial Management"
+    },
+    "2pm": {
+      "code": "CRD413",
+      "title": "Agricultural Cooperative"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "ACC407",
+      "title": "Accounting & Auditing For Cooperati"
+    },
+    "11am": {
+      "code": "ENT413",
+      "title": "Social Entrepreneurship And Community Development"
+    },
+    "2pm": {
+      "code": "ENT302",
+      "title": "Feasibilities And Business Planning"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "BUS800",
+      "title": "Quantitative Analysis"
+    },
+    "11am": {
+      "code": "ENT301",
+      "title": "Sociology Of Entrepreneurship"
+    },
+    "2pm": {
+      "code": "ENT801",
+      "title": "Business Planning For Entrepreneurship Growth"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "ENT804",
+      "title": "Biographical Studies Of Entrepreneurial Thinkers And Giants"
+    },
+    "11am": {
+      "code": "MBA820",
+      "title": "Corporate Management Strategy"
+    },
+    "2pm": {
+      "code": "MBA881",
+      "title": "Business Policy"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "MKT301",
+      "title": "Consumer Co-Operative"
+    },
+    "11am": {
+      "code": "MKT823",
+      "title": "Consumer Behaviour"
+    },
+    "2pm": {
+      "code": "PAD402",
+      "title": "Social And Welfare Administration I"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "PAD403",
+      "title": "Democratic Studies"
+    },
+    "11am": {
+      "code": "PAD771",
+      "title": "Public Personnel Administration"
+    },
+    "2pm": {
+      "code": "PAD807",
+      "title": "Public Development Administration Theory"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "ARA302",
+      "title": "Research Methods"
+    },
+    "11am": {
+      "code": "ARA430",
+      "title": "Arabic Literature In The Mahjar"
+    },
+    "2pm": {
+      "code": "ARA311",
+      "title": "Arabic Dialectology"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "CRS302",
+      "title": "Messianism"
+    },
+    "11am": {
+      "code": "CRS702",
+      "title": "Common Themes In Christianity And I"
+    },
+    "2pm": {
+      "code": "CRS704",
+      "title": "Religious Dialogue"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "CRS810",
+      "title": "Current Trends In Old Testament Sch"
+    },
+    "11am": {
+      "code": "CRS821",
+      "title": "Pauline Epistles"
+    },
+    "2pm": {
+      "code": "CRS831",
+      "title": "Reformation And Counter Reformation"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "CRS840",
+      "title": "Systematic Theology"
+    },
+    "11am": {
+      "code": "CRS856",
+      "title": "Conflict Management"
+    },
+    "2pm": {
+      "code": "CRS870",
+      "title": "Religion And Society"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "ENG311",
+      "title": "Research Methods"
+    },
+    "11am": {
+      "code": "ENG801",
+      "title": "Special Subject: Literature and Medicine"
+    },
+    "2pm": {
+      "code": "ENG312",
+      "title": "Creative Writing II"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "ENG414",
+      "title": "Speech Writing"
+    },
+    "11am": {
+      "code": "ENG856",
+      "title": "Sociolinguistics (Eng. Lang. Specialization)"
+    },
+    "2pm": {
+      "code": "ENG411",
+      "title": "English For Specific Purposes"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "FRE421",
+      "title": "Advanced Studies In French Language"
+    },
+    "11am": {
+      "code": "HAU302",
+      "title": "Varieties Of Hausa Poetry"
+    },
+    "2pm": {
+      "code": "FRE422",
+      "title": "Advanced Studies In French Language"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "HAU301",
+      "title": "Phonology Of Hausa II"
+    },
+    "11am": {
+      "code": "HAU401",
+      "title": "Advanced Hausa Phonology"
+    },
+    "2pm": {
+      "code": "HAU303",
+      "title": "Syntax Of Hausa II"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "HAU402",
+      "title": "Social Institutions and Material Culture in Hausa"
+    },
+    "11am": {
+      "code": "IGB312",
+      "title": "Naming In Igbo"
+    },
+    "2pm": {
+      "code": "HAU404",
+      "title": "Introduction to the Traditional Music of Hausa People"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "IGB482",
+      "title": "Contemporary Prose Fiction In Igbo"
+    },
+    "11am": {
+      "code": "ISL302",
+      "title": "Research Methods"
+    },
+    "2pm": {
+      "code": "IGB413",
+      "title": "Social Institutions And Material Culture Of The Igbo People"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "ISL402",
+      "title": "Modern Reform Movement"
+    },
+    "11am": {
+      "code": "ISL801",
+      "title": "Research Methods"
+    },
+    "2pm": {
+      "code": "ISL415",
+      "title": "Advanced Studies On The Qur_An"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "PHL301",
+      "title": "Symbolic Logic"
+    },
+    "11am": {
+      "code": "YOR312",
+      "title": "Naming in Yoruba"
+    },
+    "2pm": {
+      "code": "PHL312",
+      "title": "Existentialism, Hermeneutics And Phenomenology"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "PHL422",
+      "title": "Intercultural Philosophy"
+    },
+    "11am": {
+      "code": "BED312",
+      "title": "Organisation And Administration Of"
+    },
+    "2pm": {
+      "code": "PHL411",
+      "title": "Philosophy of Mind"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "YOR361",
+      "title": "Introduction to Drama in Yoruba"
+    },
+    "11am": {
+      "code": "EDA825",
+      "title": "Managerial Psychology"
+    },
+    "2pm": {
+      "code": "EDT811",
+      "title": "Theories Of Communication Andphilos"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "EDA822",
+      "title": "Supervision Of Instructions In Educ"
+    },
+    "11am": {
+      "code": "EDU720",
+      "title": "English Methods"
+    },
+    "2pm": {
+      "code": "EDU730",
+      "title": "Religion And Moral Education Metho"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "EDU711",
+      "title": "Introduction To Foundations Of Educ"
+    },
+    "11am": {
+      "code": "HED311",
+      "title": "Mental & Social Health"
+    },
+    "2pm": {
+      "code": "EGC801",
+      "title": "Principles Of Guidance And Counsell"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "EGC802",
+      "title": "Counselling Theories"
+    },
+    "11am": {
+      "code": "KHE401",
+      "title": "Advanced Training in Skils & Coaching"
+    },
+    "2pm": {
+      "code": "HED322",
+      "title": "Drug Education"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "KHE302",
+      "title": "Officiating In Sports & Games"
+    },
+    "11am": {
+      "code": "SED312",
+      "title": "The Earth And The Universe"
+    },
+    "2pm": {
+      "code": "KHE313",
+      "title": "Skills Dev & Techniques In Sports & Games (High Jump Hurdles Badminton & Volleyball)"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "PED312",
+      "title": "Fundamentals Of Early Childhood And"
+    },
+    "11am": {
+      "code": "LIS302",
+      "title": "Knowledge Organization (Classification) II"
+    },
+    "2pm": {
+      "code": "PED410",
+      "title": "Management Of Childhood Institution"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "SED835",
+      "title": "Laboratory Design Andmanagement"
+    },
+    "11am": {
+      "code": "CIT302",
+      "title": "Data Mining And Data Warehousing"
+    },
+    "2pm": {
+      "code": "LIS303",
+      "title": "Information Retrieval (Cataloguing) II"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "LIS301",
+      "title": "Collection Development"
+    },
+    "11am": {
+      "code": "CIT855",
+      "title": "Advanced Cyber Security"
+    },
+    "2pm": {
+      "code": "LIS418",
+      "title": "Personnel Management In Library & Information Science"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "CIT301",
+      "title": "Structured Programming"
+    },
+    "11am": {
+      "code": "ECE311",
+      "title": "Introduction To Cultural And Creati"
+    },
+    "2pm": {
+      "code": "CIT303",
+      "title": "Principles Of Communication Technol"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "CIT478",
+      "title": "Artificial Intelligence"
+    },
+    "11am": {
+      "code": "BUS424",
+      "title": "Organizational Theory"
+    },
+    "2pm": {
+      "code": "CIT484",
+      "title": "Website Design And Programming"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "CIT891",
+      "title": "Advanced Multimedia Technology"
+    },
+    "11am": {
+      "code": "CIT701",
+      "title": "Foundation Of Information And Commu"
+    },
+    "2pm": {
+      "code": "CIT703",
+      "title": "Information Technology And Software"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "EDU321",
+      "title": "Psychology Of Learning"
+    },
+    "11am": null,
+    "2pm": {
+      "code": "MBF833",
+      "title": "Money And Banking"
+    }
+  },
+  {
+    "day": 1,
+    "day_name": "Tuesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "FRE801",
+      "title": "French Grammar I"
+    },
+    "11am": null,
+    "2pm": null
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "28th April, 2026",
+    "8_30am": {
+      "code": "ACC757",
+      "title": "Principles Of Accounting"
+    },
+    "11am": {
+      "code": "ACC812",
+      "title": "Introduction To Accounting"
+    },
+    "2pm": {
+      "code": "BUS804",
+      "title": "Strategy And Structure"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "BFN301",
+      "title": "Practice Of Banking"
+    },
+    "11am": {
+      "code": "BFN302",
+      "title": "Monetary Theory & Policy"
+    },
+    "2pm": {
+      "code": "CRD407",
+      "title": "Project Planning Management Monitor"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "BUS849",
+      "title": "Strategic Management"
+    },
+    "11am": {
+      "code": "BFN721",
+      "title": "Security Analysis & Portfolio Manag"
+    },
+    "2pm": {
+      "code": "ENT304",
+      "title": "Leadership & Corporate Governance"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "CRD403",
+      "title": "Comparative Cooperatives"
+    },
+    "11am": {
+      "code": "BFN421",
+      "title": "Risk Management And Insurance"
+    },
+    "2pm": {
+      "code": "ENT709",
+      "title": "Start Up Funding"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "ENT722",
+      "title": "Entrepreneurial Marketing"
+    },
+    "11am": {
+      "code": "ENT303",
+      "title": "Small Scale Business Management"
+    },
+    "2pm": {
+      "code": "ENT824",
+      "title": "Leadership And Management For Entrepreneurs"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "ENT805",
+      "title": "Entrepreneurship Theory & Behaviour"
+    },
+    "11am": {
+      "code": "ENT803",
+      "title": "Monitoring & Supervision Of Entrepreneurship Development Programmes"
+    },
+    "2pm": {
+      "code": "MKT303",
+      "title": "Consumer Behaviour"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "MBA833",
+      "title": "Industrial Relations"
+    },
+    "11am": {
+      "code": "MBA821",
+      "title": "Personnel Staff Evaluation"
+    },
+    "2pm": {
+      "code": "MPA870",
+      "title": "Local Government Administration"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "MPA871",
+      "title": "Public Personnel Management"
+    },
+    "11am": {
+      "code": "MBF845",
+      "title": "International Banking"
+    },
+    "2pm": {
+      "code": "PAD354",
+      "title": "Manpower Planning And Administratio"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "PAD756",
+      "title": "Project Analysis & Implementation"
+    },
+    "11am": {
+      "code": "PAD404",
+      "title": "Comprehensive Public Administration"
+    },
+    "2pm": {
+      "code": "PAD871",
+      "title": "Public Personnel Management"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "ARA312",
+      "title": "Arabic Grammar III"
+    },
+    "11am": {
+      "code": "PAD810",
+      "title": "Public Policy Analysis"
+    },
+    "2pm": {
+      "code": "ARA313",
+      "title": "Arabic Creative Writing And Composition"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "ARA439",
+      "title": "Translation (Arabic/English/Arabic)"
+    },
+    "11am": {
+      "code": "ARA428",
+      "title": "Africa In Medieval Arabic Writing"
+    },
+    "2pm": {
+      "code": "CRS311",
+      "title": "Gospel of John"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "CRS711",
+      "title": "Biblical Hermeneutics"
+    },
+    "11am": {
+      "code": "CRS491",
+      "title": "African Traditional Religion And Cu"
+    },
+    "2pm": {
+      "code": "CRS713",
+      "title": "Critical Introduction to Old Testam"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "CRS812",
+      "title": "Theology of The Pentateuch (OT)"
+    },
+    "11am": {
+      "code": "CRS823",
+      "title": "Further Greek"
+    },
+    "2pm": {
+      "code": "CRS832",
+      "title": "The Rise and Growth of Western Christianity in Africa"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "CRS841",
+      "title": "God and Revelation"
+    },
+    "11am": {
+      "code": "CRS865",
+      "title": "Philosophy of Religion"
+    },
+    "2pm": {
+      "code": "ENG415",
+      "title": "Literary Theory And Criticism"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "ENG313",
+      "title": "Black Diaspora Literature: African-"
+    },
+    "11am": {
+      "code": "ENG314",
+      "title": "Public Speaking"
+    },
+    "2pm": {
+      "code": "ENG812",
+      "title": "Contrastive Linguistics (Eng. Lang. Option)"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "ENG416",
+      "title": "Creative Writing III"
+    },
+    "11am": {
+      "code": "ENG854",
+      "title": "The English Language In West Africa (Eng. Lang. Specialization)"
+    },
+    "2pm": {
+      "code": "FRE431",
+      "title": "Cultures And Civilizations Of Member Countries Of The Franco"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "ENG811",
+      "title": "Advanced Research Methods"
+    },
+    "11am": {
+      "code": "ENG861",
+      "title": "Studies In Written African Drama (Lit. In Eng. Specialization)"
+    },
+    "2pm": {
+      "code": "HAU306",
+      "title": "Hausa Morphology"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "HAU304",
+      "title": "Introduction Of Hausa Drama"
+    },
+    "11am": {
+      "code": "FRE423",
+      "title": "Linguistics Applied To The Teaching"
+    },
+    "2pm": {
+      "code": "HAU405",
+      "title": "Practical Stylistic II"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "HAU403",
+      "title": "Advanced Hausa Syntax"
+    },
+    "11am": {
+      "code": "HAU305",
+      "title": "Hausa Dialects"
+    },
+    "2pm": {
+      "code": "IGB314",
+      "title": "Literary Criticism"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "IGB414",
+      "title": "Contrastive Studies in Igbo"
+    },
+    "11am": {
+      "code": "HAU406",
+      "title": "Textual Study of Hausa Oral Songs"
+    },
+    "2pm": {
+      "code": "ISL412",
+      "title": "Tafsir: Exegesis Of Selected Passag"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "PHL303",
+      "title": "Theories Of Knowledge"
+    },
+    "11am": {
+      "code": "ISL304",
+      "title": "Islamic Studies And Orientalism"
+    },
+    "2pm": {
+      "code": "ISL805",
+      "title": "Revivalism And Revivalist Movements In Islam"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "PHL432",
+      "title": "Applied Ethics"
+    },
+    "11am": {
+      "code": "ISL804",
+      "title": "Islamic Studies In West Africa"
+    },
+    "2pm": {
+      "code": "PHL314",
+      "title": "Advanced Metaphysics"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "YOR371",
+      "title": "Varieties of Poetry in Yoruba"
+    },
+    "11am": {
+      "code": "YOR314",
+      "title": "Literary Criticism"
+    },
+    "2pm": {
+      "code": "PHL413",
+      "title": "Metaphysical Anthropology"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "EDT833",
+      "title": "Facilities For Media"
+    },
+    "11am": {
+      "code": "EDA832",
+      "title": "Economics Of Education"
+    },
+    "2pm": {
+      "code": "EDA833",
+      "title": "Monitoring/Evaluation In Education"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "EDU712",
+      "title": "Professionalism In Teaching"
+    },
+    "11am": {
+      "code": "EDU721",
+      "title": "Psychology Of Learning"
+    },
+    "2pm": {
+      "code": "EDU731",
+      "title": "Curriculum Development (Theory And"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "EGC803",
+      "title": "Developmental Psychology"
+    },
+    "11am": {
+      "code": "KHE312",
+      "title": "Facility Planning Construction & Supervision"
+    },
+    "2pm": {
+      "code": "EGC804",
+      "title": "Techniques Of Counselling"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "HED313",
+      "title": "Health And Illness Behaviour"
+    },
+    "11am": {
+      "code": "SED313",
+      "title": "Improvisation In Integrated Science"
+    },
+    "2pm": {
+      "code": "HED324",
+      "title": "Vital Statistics In Health Education"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "PED313",
+      "title": "Historical And Cultural Background"
+    },
+    "11am": {
+      "code": "SED834",
+      "title": "Science And Technology In Society"
+    },
+    "2pm": {
+      "code": "PED412",
+      "title": "Organization And Administration Of"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "LIS304",
+      "title": "Management Of Libraries & Information Centre"
+    },
+    "11am": {
+      "code": "LIS305",
+      "title": "Research Methodology And Statistics In Lis"
+    },
+    "2pm": {
+      "code": "SED314",
+      "title": "African Cosmology In Integration In"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "CIT304",
+      "title": "Data Management"
+    },
+    "11am": {
+      "code": "LIS416",
+      "title": "Introduction To Digital Information System&Services"
+    },
+    "2pm": {
+      "code": "LIS306",
+      "title": "Indexing And Abstracting"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "CIT722",
+      "title": "Computer Networks"
+    },
+    "11am": {
+      "code": "CIT305",
+      "title": "Networking And Communication Techno"
+    },
+    "2pm": {
+      "code": "CIT308",
+      "title": "Formal Methods, Automata And Software Development"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "CIT853",
+      "title": "Internet Concepts And Web Design"
+    },
+    "11am": {
+      "code": "CIT474",
+      "title": "Introduction To Expert Systems"
+    },
+    "2pm": {
+      "code": "CIT711",
+      "title": "Computer Fundamentals"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "ISL439",
+      "title": "Al-HuduuD: Penal System Of The Shar"
+    },
+    "11am": {
+      "code": "ECE313",
+      "title": "Theories And Practice Of Early Chil"
+    },
+    "2pm": {
+      "code": "CIT882",
+      "title": "Internet Of Things"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "ENT403",
+      "title": "Project Management"
+    },
+    "11am": {
+      "code": "EDU823",
+      "title": "Educational Research Methods"
+    },
+    "2pm": {
+      "code": "CIT421",
+      "title": "Net-Centric Computing"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "BUS325",
+      "title": "Human Resources Management"
+    },
+    "11am": {
+      "code": "EDU426",
+      "title": "Special Education"
+    },
+    "2pm": {
+      "code": "FMS304",
+      "title": "Research Methodology"
+    }
+  },
+  {
+    "day": 2,
+    "day_name": "Wednesday",
+    "date": "29th April, 2026",
+    "8_30am": {
+      "code": "EDU314",
+      "title": "Comparative Education"
+    },
+    "11am": null,
+    "2pm": null
+  }
+]
